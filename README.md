@@ -1,2 +1,2 @@
 # HigherLower Game
-## DarkStream
+## Just a Higher - Lower Game to practice LUA
